@@ -1,0 +1,13 @@
+﻿.mid-category {
+    margin-right: 1px;
+    margin-bottom: 1px;
+    width: calc(50% - 1px);
+    padding: 0px;
+}
+
+.mid-category-img {
+    width: calc(100% - 1px);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

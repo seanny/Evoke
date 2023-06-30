@@ -1,1 +1,27 @@
-﻿
+﻿@import "../Constants.css";
+
+.search-form {
+    background-color: var(--grey);
+}
+
+.search-bar {
+    border-radius: 0;
+    border: none;
+    flex-grow: 1;
+    width: 100%;
+    scrollbar-highlight-color: none;
+    letter-spacing: .025em;
+    appearance: none;
+    outline: none;
+}
+
+button {
+    background-color: transparent;
+    border:none;
+}
+
+.icon-search {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    display: inline-block;
+}

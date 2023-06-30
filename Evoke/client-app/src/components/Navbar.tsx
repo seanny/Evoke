@@ -94,12 +94,17 @@ export default function Navbar() {
                             <Subitem name="View All" href="#" />
                             <Subitem name="Tops" href="#" />
                             <Subitem name="Hoodies" href="#" />
+                            <Subitem name="Dresses" href="#" />
                             <Subitem name="Jeans" href="#" />
                             <Subitem name="Joggers" href="#" />
                             <Subitem name="Leggings" href="#" />
                             <Subitem name="Shorts" href="#" />
+                            <Subitem name="Skirts" href="#" />
+                            <Subitem name="Swim" href="#" />
                         </SubMenu>
                         <Item name="Tops" isActive={false} href="#" />
+                        <Item name="Dresses" isActive={false} href="#" />
+                        <Item name="Swim" isActive={false} href="#" />
                     </ul>
                 </div>
                 <div className="d-flex">
